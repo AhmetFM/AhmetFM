@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://meric-three.vercel.app/](https://meric-three.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://ahmetmeric.vercel.app/](https://ahmetmeric.vercel.app/)
 
 - 💬 Ask me about **react, redux**
 
