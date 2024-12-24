@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **afurkanmeric@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/16mBEmuD7wNZum1Xy47Uacz7UOByXnQZe/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1i3mCQ5B9ERFm3p8q-0Nj1x5HLGJ4lq6i/view?usp=sharing)
 
 - ⚡ Fun fact **I'm also playing Quarterback.**
 
